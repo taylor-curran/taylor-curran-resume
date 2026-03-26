@@ -25,7 +25,7 @@ Forward Deployed Engineer focused on deploying autonomous coding agents in enter
 - Collaborated across product and engineering teams to ship data-driven functionality.
 
 ## Skills
-**Languages & Tools:** Python, Java, SQL, Docker, Kubernetes, Spark  
+**Languages & Tools:** Python, SQL, Docker, Kubernetes, Java  
 **AI / Systems:** Autonomous Agents, AI APIs, Agentic Workflows, API Integrations, Workflow Orchestration  
 **Strengths:** Enterprise Deployments, Technical Evaluations, POCs, Production Systems, Security & Architecture  
 
