@@ -17,11 +17,11 @@ Forward Deployed Engineer specializing in enterprise deployment of AI coding age
 ### Cognition — Forward Deployed Engineer  
 Austin, TX · Apr 2025 – Present
 
-- Led pre‑sale technical evaluations and enterprise adoption of **Devin** and **Windsurf** through demos, deep technical discovery, and hands‑on implementation.
-- Ran a **20+ use case POC** for a **top‑5 U.S. bank**, building ROI models by comparing inference cost against engineering time saved.
-- Led the technical side of a **$5M+ enterprise deal** with a top‑5 U.S. bank and continued supporting the account post‑sale during production implementation.
-- Worked directly in customer codebases to build **agentic workflows**, **API integrations**, and production systems.
-- Collaborated with customer **security and platform teams** on architecture decisions and enterprise rollout requirements.
+- Lead pre-sale technical evaluations and enterprise adoption of Devin and Windsurf through demos, deep technical discovery, and hands-on implementation.
+- Ran a 20+ use case POC for a top-5 U.S. bank, building ROI models by comparing inference cost against engineering time saved.
+- Lead the technical side of a $5M+ enterprise deal with a top-5 U.S. bank and continue supporting the account post-sale during production implementation.
+- Work directly in customer codebases to build agentic workflows, API integrations, and production systems.
+- Collaborate with customer security and platform teams on architecture decisions and enterprise rollout requirements.
 
 ### Prefect — Senior Sales Engineer / Sales Engineer  
 Chicago, IL · May 2022 – Apr 2025
