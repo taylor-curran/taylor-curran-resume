@@ -30,6 +30,7 @@ Chicago, IL · May 2022 – Apr 2025
 - Designed production workflow architectures for data and AI workloads using Prefect’s open‑source and cloud platforms.
 - Delivered technical training and implementation guidance for teams deploying orchestration systems in production.
 - Brought enterprise customer feedback into product discussions around platform capabilities and developer tooling.
+- Closed $3M in contracts for 2024.
 
 ### VIA — Backend Engineer, Data Systems  
 Boston, MA · Apr 2021 – May 2022
