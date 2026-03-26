@@ -1,7 +1,6 @@
 # Taylor Curran
 Austin, TX · taylorcurranagtc@gmail.com · +1 832 205 1268 · [LinkedIn](https://www.linkedin.com/in/taylorcurran/)
 
-## Summary
 Forward Deployed Engineer focused on deploying autonomous coding agents in enterprise environments. Specialize in moving engineering teams from AI-assisted workflows to fully delegated, production-grade systems. Strong track record leading technical evaluations, working directly in customer codebases, and closing multi-million dollar deals with top-tier financial institutions.
 
 ## Experience
