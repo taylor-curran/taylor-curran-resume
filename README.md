@@ -44,7 +44,7 @@ Boston, MA · Apr 2021 – May 2022
 ## Skills
 
 **Languages & Tools**  
-Python, Java, SQL, Docker, Kubernetes, Spark
+Python, SQL, Docker, Java, Kubernetes
 
 **AI / Systems**  
 AI APIs, Agentic Workflows, API Integrations, Workflow Orchestration, MCP
