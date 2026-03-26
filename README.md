@@ -7,7 +7,7 @@ Forward Deployed Engineer focused on deploying autonomous coding agents in enter
 ## Experience
 ### Cognition — Forward Deployed Engineer | Austin, TX · Apr 2025 – Present
 - Lead enterprise adoption of autonomous coding agents (Devin, Windsurf) from evaluation through production rollout.
-- Drive a 20+ use case POC for a top-5 U.S. bank, building ROI models tying inference cost to engineering time saved.
+- Drove a 20+ use case POC for a top-5 U.S. bank, building ROI models tying inference cost to engineering time saved.
 - Own technical execution of a $5M+ enterprise deal and ongoing production deployment.
 - Build and deploy agent-driven workflows, API integrations, and production systems directly in customer codebases.
 - Partner with security and platform teams to meet enterprise architecture, compliance, and rollout requirements.
