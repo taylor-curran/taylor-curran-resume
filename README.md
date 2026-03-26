@@ -12,7 +12,7 @@ Forward Deployed Engineer focused on deploying autonomous coding agents in enter
 - Partner with security and platform teams to meet enterprise architecture, compliance, and rollout requirements.
 
 ### Prefect — Senior Sales Engineer / Sales Engineer | Chicago, IL · May 2022 – Apr 2025
-- Closed $6M+ in enterprise contracts by leading technical evaluations and POCs across financial services.
+- Closed $3M+ in enterprise contracts by leading technical evaluations and POCs across financial services.
 - Led enterprise demos and deep technical discovery for Prefect’s orchestration platform across data and AI workloads.
 - Designed and implemented production workflow architectures using Python, Docker, and Kubernetes.
 - Delivered hands-on training and guided teams through production adoption of orchestration systems.
